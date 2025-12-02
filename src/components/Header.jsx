@@ -1,5 +1,5 @@
 import styles from "./Header.module.css";
-import logo from "../assets/logo.svg";
+import logo from "../assets/Logo.svg";
 import NavRoute from "./NavRoute";
 import { Link } from "react-router-dom";
 
